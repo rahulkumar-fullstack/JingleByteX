@@ -4,11 +4,11 @@ import "./globals.css";
 // Material UI
 import { ThemeProvider } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
-import theme from '../theme';
+import theme from '../../theme';
 
 
 export const metadata: Metadata = {
-  title: "JingleBytex",
+  title: "JingleByteX",
   description: "Created by Rahulkumar Gupta",
 };
 
