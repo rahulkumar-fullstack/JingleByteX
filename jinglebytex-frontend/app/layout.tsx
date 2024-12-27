@@ -1,16 +1,11 @@
-import type { Metadata } from "next";
-import "./globals.css";
+'use client';
 
+import "./globals.css";
 // Material UI
 import { ThemeProvider } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
-import theme from '../../theme';
+import theme from '../theme';
 
-
-export const metadata: Metadata = {
-  title: "JingleByteX",
-  description: "Created by Rahulkumar Gupta",
-};
 
 export default function RootLayout({
   children,
@@ -19,6 +14,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+       <head>
+        <title>JingleByteX</title>
+        <meta name="description" content="Created by Rahulkumar Gupta" />
+      </head>
       <body>
         <ThemeProvider theme={theme}>
           <CssBaseline />
