@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import "../fontawesome-config";
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 export const metadata: Metadata = {
   title: "JingleByteX",
@@ -22,6 +23,7 @@ export default function RootLayout({
       <body className="bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100">
         <Navbar />
         <main>{children}</main>
+        <Footer />
       </body>
     </html>
   );
