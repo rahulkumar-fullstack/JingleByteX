@@ -3,69 +3,88 @@
 <!-- Created by Rahulkumar Gupta (https://github.com/rahulkumar-fullstack) -->
 
 <svg
-   width="435.7348"
-   height="74.2612"
-   viewBox="0 0 435.7348 74.2612"
+   width="435.6348"
+   height="74.161194"
+   viewBox="0 0 435.6348 74.161194"
    version="1.1"
    id="svg1"
    xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs1"><linearGradient
+       id="linearGradient5"><stop
+         style="stop-color:#767676;stop-opacity:1;"
+         offset="0"
+         id="stop5" /><stop
+         style="stop-color:#363636;stop-opacity:0;"
+         offset="1"
+         id="stop6" /></linearGradient><linearGradient
        id="swatch1"><stop
          style="stop-color:#050505;stop-opacity:1;"
          offset="0"
-         id="stop1" /></linearGradient></defs><g
+         id="stop1" /></linearGradient><linearGradient
+       xlink:href="#linearGradient5"
+       id="linearGradient6"
+       x1="113.14527"
+       y1="242.65515"
+       x2="479.10153"
+       y2="242.65515"
+       gradientUnits="userSpaceOnUse" /></defs><g
      id="layer1"
      transform="translate(-43.466736,-198.53458)"><text
        xml:space="preserve"
-       style="font-weight:bold;font-size:64px;line-height:0.1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#0d6efd;stroke:#363636;stroke-opacity:1;paint-order:markers fill stroke"
+       style="font-weight:bold;font-size:64px;line-height:0.1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#0d6efd;stroke:url(#linearGradient6);stroke-width:0.8;stroke-dasharray:none;paint-order:markers fill stroke"
        x="112.45152"
        y="258.82703"
        id="text1"><tspan
          id="tspan1"
          x="112.45152"
          y="258.82703"
-         style="font-size:64px;stroke:#363636;stroke-opacity:1;paint-order:markers fill stroke"><tspan
-   style="fill:#ecf4ff;fill-opacity:1"
-   id="tspan4">J</tspan>ingle<tspan
-   style="fill:#0dfd55;fill-opacity:1"
-   id="tspan2">B</tspan>yte<tspan
-   style="fill:#fd0d0d;fill-opacity:1"
-   id="tspan3">X</tspan></tspan></text><g
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.997;fill:none;fill-opacity:1;stroke:url(#linearGradient6);stroke-width:0.8;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"><tspan
+           style="fill:#ffd700;fill-opacity:1;stroke:url(#linearGradient6)"
+           id="tspan9">J</tspan><tspan
+           style="fill:#fff6f6;fill-opacity:1;stroke:url(#linearGradient6);stroke-opacity:1"
+           id="tspan15">ingle</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d50032;fill-opacity:1;stroke:url(#linearGradient6);stroke-opacity:1"
+           id="tspan6">B</tspan><tspan
+           style="fill:#fff6f6;fill-opacity:1;stroke:url(#linearGradient6);stroke-opacity:1"
+           id="tspan16">yte</tspan><tspan
+           style="fill:#006400;fill-opacity:1;stroke:url(#linearGradient6)"
+           id="tspan11">X</tspan></tspan></text><g
        id="g1"
        transform="matrix(0.12078501,0,0,0.15306705,43.83805,195.77031)"
-       style="stroke:#050505;stroke-width:6.14835;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"><path
-         style="fill:#ed5564;stroke:#050505;stroke-width:6.14835;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:#050505;stroke-width:6.14835;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"><path
+         style="fill:#d50032;fill-opacity:1;stroke:#050505;stroke-width:6.14835;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
          d="m 21.265,368.488 333.836,-11.921 c 24.484,-50.687 -0.578,-92.506 -0.578,-92.506 64.78,-18.258 99.232,54.428 109.686,64.881 2.062,2.094 12.438,-9.953 12.438,-9.953 -26.548,-419.795 -581.004,-273.22 -455.382,49.499 z"
          id="path1" /><g
          id="g3"
-         style="stroke:#050505;stroke-width:6.14835;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke">
+         style="fill:#fff2f2;fill-opacity:1;stroke:#050505;stroke-width:6.14835;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke">
 	<path
-   style="fill:#e6e9ed;stroke:#050505;stroke-width:6.14835;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+   style="fill:#fff2f2;fill-opacity:1;stroke:#050505;stroke-width:6.14835;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
    d="m 511.988,323.427 c 0,23.562 -19.093,42.671 -42.654,42.671 -23.578,0 -42.688,-19.108 -42.688,-42.671 0,-23.562 19.109,-42.67 42.688,-42.67 23.561,0 42.654,19.108 42.654,42.67 z"
    id="path2" />
 	<path
-   style="fill:#e6e9ed;stroke:#050505;stroke-width:6.14835;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+   style="fill:#fff6f6;fill-opacity:1;stroke:#050505;stroke-width:6.14835;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
    d="m 383.992,368.019 c 0,-12.843 -10.406,-23.249 -23.234,-23.249 H 23.242 C 10.406,344.77 0,355.176 0,368.019 v 60.187 c 0,12.828 10.406,23.233 23.242,23.233 h 337.516 c 12.828,0 23.234,-10.405 23.234,-23.233 z"
    id="path3" />
 </g><g
          id="g7"
-         style="stroke:#050505;stroke-width:6.14835;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke">
+         style="fill:none;fill-opacity:1;stroke:#050505;stroke-width:6.14835;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke">
 	<path
-   style="fill:#ccd1d9;stroke:#050505;stroke-width:6.14835;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+   style="fill:none;fill-opacity:1;stroke:#050505;stroke-width:6.14835;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
    d="m 319.993,415.878 c -5.875,0 -10.655,4.781 -10.655,10.672 v 24.89 h 21.327 v -24.89 c 0,-5.891 -4.766,-10.672 -10.672,-10.672 z"
    id="path4" />
 	<path
-   style="fill:#ccd1d9;stroke:#050505;stroke-width:6.14835;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+   style="fill:none;fill-opacity:1;stroke:#050505;stroke-width:6.14835;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
    d="m 234.667,415.878 c -5.891,0 -10.663,4.781 -10.663,10.672 v 24.89 h 21.327 v -24.89 c 0,-5.891 -4.774,-10.672 -10.664,-10.672 z"
    id="path5" />
 	<path
-   style="fill:#ccd1d9;stroke:#050505;stroke-width:6.14835;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+   style="fill:none;fill-opacity:1;stroke:#050505;stroke-width:6.14835;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
    d="m 149.333,415.878 c -5.891,0 -10.664,4.781 -10.664,10.672 v 24.89 h 21.328 v -24.89 c 0,-5.891 -4.774,-10.672 -10.664,-10.672 z"
    id="path6" />
 	<path
-   style="fill:#ccd1d9;stroke:#050505;stroke-width:6.14835;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+   style="fill:none;fill-opacity:1;stroke:#050505;stroke-width:6.14835;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
    d="m 63.999,415.878 c -5.891,0 -10.664,4.781 -10.664,10.672 v 24.89 h 21.336 v -24.89 c 0,-5.891 -4.781,-10.672 -10.672,-10.672 z"
    id="path7" />
 </g></g><g
