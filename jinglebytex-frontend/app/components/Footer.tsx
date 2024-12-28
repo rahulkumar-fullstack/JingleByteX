@@ -18,7 +18,7 @@ export default function Footer() {
         <p className="mb-4">
           Developed by <br />
           <Link href="https://rahulkumar-fullstack.web.app" target="_blank" className="text-blue-500 hover:underline">
-            <strong className="animate-pulse">Rahulkumar Gupta</strong>
+            <strong className="animate-pulse text-lg">Rahulkumar Gupta</strong>
           </Link>
         </p>
 
