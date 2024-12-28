@@ -1,11 +1,4 @@
-'use client';
-
 import "./globals.css";
-// Material UI
-import { ThemeProvider } from '@mui/material/styles';
-import CssBaseline from '@mui/material/CssBaseline';
-import theme from '../theme';
-
 
 export default function RootLayout({
   children,
@@ -14,15 +7,14 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-       <head>
+      <head>
         <title>JingleByteX</title>
-        <meta name="description" content="Created by Rahulkumar Gupta" />
+        <meta name="description" content="A full-stack Christmas-themed application developed by Rahulkumar Gupta" />
+        <meta name="author" content="Rahulkumar Gupta" />
+        <link rel="icon" href="/favicon.ico" />
       </head>
       <body>
-        <ThemeProvider theme={theme}>
-          <CssBaseline />
-          {children}
-        </ThemeProvider>
+        <main>{children}</main>
       </body>
     </html>
   );
